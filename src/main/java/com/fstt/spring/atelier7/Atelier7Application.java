@@ -1,0 +1,13 @@
+package com.fstt.spring.atelier7;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Atelier7Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Atelier7Application.class, args);
+    }
+
+}
